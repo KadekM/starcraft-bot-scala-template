@@ -1,4 +1,6 @@
-#HOWTO?
+It can be a bit tricky to get it all work together - so here's list quickly put together.
+
+#How to (for Windows 10)
 
 1. Install 32b JDK (latest 1.8 worked for me)
 2. Install Starcraft
@@ -16,3 +18,8 @@ _IntelliJ files intentionally pushed!_
 TODO: 
 - check how much of IntelliJ we actually need
 - update gitignore to ignore extracted dlls
+- 
+
+#Some other resources
+[SSCAITournament](http://sscaitournament.com/index.php?action=tutorial)
+[BWMirror](http://bwmirror.jurenka.sk/)
