@@ -16,9 +16,9 @@ It can be a bit tricky to get it all work together - so here's list quickly put 
 _IntelliJ files intentionally pushed!_
 
 TODO: 
+
 - check how much of IntelliJ we actually need
 - update gitignore to ignore extracted dlls
-- 
 
 #Some other resources
 [SSCAITournament](http://sscaitournament.com/index.php?action=tutorial)
